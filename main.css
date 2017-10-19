@@ -3,8 +3,9 @@ h1 {
 }
 
 .container {
+	outline: 1px solid blue;
 	position: relative;
-	width: 89%;
+	width: 667px;
 	overflow: auto;
 	margin: 5% 0 0 0;
 	padding: 0;
