@@ -1,0 +1,84 @@
+h1 {
+	font-family: 'Sanchez', serif;
+}
+
+.container {
+	position: relative;
+	width: 89%;
+	overflow: auto;
+	margin: 5% 0 0 0;
+	padding: 0;
+}
+
+
+.foto1 {
+	float: left;
+	margin: 0 5% 5% 0;
+}
+
+.foto2 {
+	margin: 0 0 5% 0;
+	float: left;
+}
+
+.foto3 {
+	margin: 0 0 5% 5%;
+	float: left;
+}
+
+.foto4 {
+	margin: 0 5% 0 0;
+	float: left;
+}
+
+.foto5 {
+	margin: 0 5% 0 0;
+	float: left;
+}
+
+.foto6 {
+	margin: 0;
+	float: left;
+}
+
+p {
+	font-family: 'Sanchez', serif;
+	font-size: 85%;
+	color: #fff;
+}
+
+.foto1 p {
+	position: absolute;
+	top: 36%;
+	left: 12%;
+}
+
+.foto2 p {
+	position: absolute;
+	top: 36%;
+	left: 47%;
+}
+
+.foto3 p {
+	position: absolute;
+	top: 36%;
+	left: 82%;
+}
+
+.foto4 p {
+	position: absolute;
+	top: 90%;
+	left: 12%;
+}
+
+.foto5 p {
+	position: absolute;
+	top: 90%;
+	left: 47%;
+}
+
+.foto6 p {
+	position: absolute;
+	top: 90%;
+	left: 82%;
+}
