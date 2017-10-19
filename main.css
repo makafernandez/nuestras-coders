@@ -3,7 +3,7 @@ h1 {
 }
 
 .container {
-	outline: 1px solid blue;
+	/*outline: 1px solid blue;*/
 	position: relative;
 	width: 667px;
 	overflow: auto;
